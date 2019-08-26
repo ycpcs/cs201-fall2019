@@ -10,7 +10,7 @@ Computer programming is an essential skill not only in the field of computing, b
 
 In this course, we will learn about the techniques needed to write complex programs and to understand their behavior.
 
-Review of Primitive Java
+Review of Primitive Java 
 ========================
 
 "Primitive Java" - the subset of Java that is essentially C.
