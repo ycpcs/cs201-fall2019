@@ -10,7 +10,7 @@ var semesterInfo = {
     // For single-day breaks, the startDate and endDate are the same.
     vacationDates: [
         new VacationDays("Labor Day",          new Date("09/2/2019"),  new Date("09/2/2019")),
-        new VacationDays("Fall Break",         new Date("10/14/2019"), new Date("10/16/2019")),
+        new VacationDays("Fall Break",         new Date("10/14/2019"), new Date("10/15/2019")),
         new VacationDays("Thanksgiving Break", new Date("11/27/2019"), new Date("11/29/2019")),
     ]
 };
