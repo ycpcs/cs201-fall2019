@@ -10,11 +10,10 @@ title: "Syllabus"
 **Fall 2019**
 
 Instructor: [Donald J. Hake II](https://www.ycp.edu/academics/kinsley-school-of-engineering-sciences-and-technology/faculty/hake-ii-donald-j.php) [djhake2@ycp.edu](mailto:djhake2@ycp.edu)
+
 Office Hours: W/F in KEC123: 9:15-10:00, 11:15-Noon, 1:15-2:00; W/F in KEC137: 2:00-4:00, and by appointment
 
-Sections:
-
-Section number | Days |  Time | Room | Final Exam
+Section | Days |  Time | Room | Final Exam
 -------------- | ---- |  ---- | ---- | ----------
 101 | Wed/Fri | 10:00-11:15 | KEC 123 | Fri, Dec 13, 10:15-12:15
 102 | Wed/Fri | 12:00-1:15  | KEC 123 | Fri, Dec 13, 12:45-2:45
