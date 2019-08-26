@@ -1,8 +1,4 @@
-baseurl: "//ycpcs.github.io/cs201-fall2019"
+coursename: "CS 201"
+baseurl: "/cs201-fall2019"
 markdown: kramdown
 highlighter: rouge
-coursename: "CS 201"
-
-kramdown:
-    input: GFM
-    hard_wrap: false

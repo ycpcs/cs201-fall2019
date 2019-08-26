@@ -31,26 +31,26 @@ courseInfo.classPeriods = [
 		lab: new NumberedLab(6, "GUIs")
 	},
 	{
-		topic: new Topic("Lecture 7: Inheritance", "lectures/lecture07.html"),
+		topic: new Topic("Lecture 7: ArrayList, Inheritance", "lectures/lecture07.html"),
 		reading: "4.1&ndash;4.2",
 		lab: new NumberedLab(7, "Inheritance and Polymorphism")
 	},
 	{
-		topic: new Topic("Lecture 8: ArrayList, Inheritance (continued)", "lectures/lecture08.html"),
+		topic: new Topic("Lecture 8: Inheritance (continued)", "lectures/lecture08.html"),
 		reading: "4.3&ndash;4.4",
 		lab: new NumberedLab(8, "Inheriting Fields and Methods")
 	},
 	{
 		topic: new Topic("Lecture 9: Type casts, instanceof, Object class, Interfaces", "lectures/lecture09.html"),
-		lab: new NumberedLab(9, "Comparable, String")
-	},
-	{
-		topic: new Topic("** Exam 1", "")
+		lab: new NumberedLab(9, "Comparable, Sorting")
 	},
 	{
 		topic: new Topic("Lecture 10: Generic methods and classes", "lectures/lecture10.html"),
 		reading: "4.5&ndash;4.7",
 		lab: new NumberedLab(10, "Using Generic Containers and Algorithms")
+	},
+	{
+		topic: new Topic("** Exam 1", "")
 	},
 	{
 		topic: new Topic("Lecture 11: Generic methods, functors", "lectures/lecture11.html"),
