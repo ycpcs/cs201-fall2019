@@ -86,7 +86,7 @@ Your overall grade for the course will be determined as follows:
 -   Labs, attendance/participation: 5%
 -   Quizzes: 5%
 
-<sup><b>\*</b></sup> Note that you must earn a score of 70 or above on *at least one exam* in order to receive a grade of 2.0 or higher for the course.
+<sup><b>\*</b></sup> Note that you must earn a score of 70 or above on *at least one exam* and have at least a 60% average on your top 3 exam scores in order to receive a grade of 2.0 or higher for the course.
 
 ### Course website
 
@@ -123,7 +123,7 @@ Any violation of the course's academic integrity policy will be referred to the 
 In order to receive credit for completing a lab, you need to get a sign-off from your instructor *in person*.  There are two options for this:
 
 1. For 100% of full credit: Get a sign-off by the end of the *next* class (i.e., the class that follows the one in which we work on the lab in class.)
-2. For 50% of full credit: Get a sign-off **no later than the class before** the next exam.
+2. For 80% of full credit: Get a sign-off **by the last class before the next exam**.
 
 We *strongly* recommend that you work on the labs before you come to class, so that when you come to class, you have made a good start on it and are ready to ask questions about it.
 
