@@ -5,7 +5,7 @@ title: "Assignments"
 
 This page links to homework assignments.
 
-Assignments are due by 11:59 PM on the due date.
+Assignments are due by 11:59 PM on the due date, although I will not assess a late penalty if you submit your final version by 7:00 AM the following morning.
 
 > Assignment | File | Due
 > ---------- | ---- | ---
