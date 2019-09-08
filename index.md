@@ -34,9 +34,8 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 * **Oct 4**  &mdash; [Assignment 4-MS1](assign/assign04.html) is due Thursday, Oct 17th.
 * **Sep 23** &mdash; When submitting assignments, please follow the submission instructions by submitting the entire project.  Submitting a single source file is not sufficient.
 * **Sep 20** &mdash; The date for **Exam 1** is **Friday, Sep 27th**.  A practice exam is available on the [Practice Exams](practice/index.html) page.
-* **Sep 11** &mdash; [Assignment 3](assign/assign03.html) has been posted, due Thursday, Oct 3rd.
 -->
-
+* **Sep 9**  &mdash; [Assignment 3](assign/assign03.html) has been posted, due Thursday, Oct 3rd.
 * **Sep 4**  &mdash; [Assignment 2](assign/assign02.html) has been posted, due Monday, Sept 16th.
 * **Aug 30** &mdash; [Tutoring](tutoring.html) starts Wednesday, Sept 4th.  Monday through Thursday evenings from 6:00 to 8:30.
 * **Aug 28** &mdash; [Assignment 1](assign/assign01.html) is due Monday, Sept 9th.
