@@ -32,9 +32,10 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 * **Oct 18** &mdash; Two practice problems for Exam 2 have been posted to [CloudCoder](https://cs.ycp.edu/cloudcoder). I will be posting additional practice problems as time allows.
 * **Oct 4**  &mdash; [Assignment 4-MS2](assign/assign04.html) is due Monday, Nov 4th.
 * **Oct 4**  &mdash; [Assignment 4-MS1](assign/assign04.html) is due Thursday, Oct 17th.
-* **Sep 23** &mdash; When submitting assignments, please follow the submission instructions by submitting the entire project.  Submitting a single source file is not sufficient.
-* **Sep 20** &mdash; The date for **Exam 1** is **Friday, Sep 27th**.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 -->
+
+* **Sep 13** &mdash; When submitting assignments, please follow the submission instructions by submitting the entire project.  Submitting a single source file is not sufficient.
+* **Sep 13** &mdash; The date for **Exam 1** is **Wednesday, Oct 2nd**.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 * **Sep 9**  &mdash; [Assignment 3](assign/assign03.html) has been posted, due Thursday, Oct 3rd.
 * **Sep 4**  &mdash; [Assignment 2](assign/assign02.html) has been posted, due Monday, Sept 16th.
 * **Aug 30** &mdash; [Tutoring](tutoring.html) starts Wednesday, Sept 4th.  Monday through Thursday evenings from 6:00 to 8:30.
