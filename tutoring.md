@@ -17,8 +17,8 @@ and *ask questions early* to avoid the rush.
 
 * Monday    (KEC 123): **Kaitlyn Graf,  Marie Kiley**, Back-ups: Ed Nardo
 * Tuesday   (KEC 124): **Kate Kennelly, Ed Nardo**,    Back-ups: Christian DeShong, Rob Politi
-* Wednesday (KEC 123): **Kaitlyn Graf,  Marie Kiley**, Back-ups: Ed Nardo
-* Thursday  (KEC 124): **Kate Kennelly, Ed Nardo**,    Back-ups: Christian DeShong, Rob Politi
+* Wednesday (KEC 123): **Kaitlyn Graf / Ed Nardo,  Marie Kiley**, Back-ups: 
+* Thursday  (KEC 124): **Kate Kennelly, Christian DeShong**, Back-ups: Marie Kiley, Rob Politi
 
 
 # In-Class Tutoring
