@@ -26,9 +26,10 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 
 ## News
 <!-- commented out future news
-* **Nov 20** &mdash; Any missing or incomplete assignments must be submitted to [Marmoset](https://cs.ycp.edu/marmoset) by **Wednesday, Dec 11th** at the very latest. The [Syllabus](syllabus.html) requires a good faith effort to complete all assignments as a prerequisite for receiving a passing (2.0 or higher) grade in the course.
-* **Nov 17** &mdash; [Assignment 6](assign/assign06.html) is due Tuesday, Dec 10th.
 -->
+
+* **Nov 20** &mdash; Any missing or incomplete assignments must be submitted to [Marmoset](https://cs.ycp.edu/marmoset) by **Sunday, Dec 8th, by 11:59pm** at the very latest. The [Syllabus](syllabus.html) requires a good faith effort to complete all assignments as a prerequisite for receiving a passing (2.0 or higher) grade in the course.
+* **Nov 17** &mdash; [Assignment 6](assign/assign06.html) is due Friday, Dec 6th.
 
 <!-- didn't do this for Fall 2019
 
