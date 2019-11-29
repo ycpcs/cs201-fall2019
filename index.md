@@ -28,16 +28,14 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 <!-- commented out future news
 -->
 
-* **Nov 20** &mdash; Any missing or incomplete assignments must be submitted to [Marmoset](https://cs.ycp.edu/marmoset) by **Sunday, Dec 8th, by 11:59pm** at the very latest. Any missing or incomplete assignments must be submitted to [Marmoset](https://cs.ycp.edu/marmoset) by **Sunday, Dec 8th, by 11:59pm at the very latest.** The [Syllabus](syllabus.html) requires a good faith attempt to be submitted for each assignment as a prerequisite for receiving a passing (2.0 or higher) grade in the course.
+* **Nov 20** &mdash; Any missing or incomplete assignments must be submitted to [Marmoset](https://cs.ycp.edu/marmoset) by **Sunday, Dec 8th, by 11:59pm at the very latest.** The [Syllabus](syllabus.html) requires a good faith attempt to be submitted for each assignment as a prerequisite for receiving a passing (2.0 or higher) grade in the course.
 * **Nov 20** &mdash; The **FINAL EXAM** is scheduled for Friday, December 13th: section 101 from 10:15am to 12:15pm, section 102 from 12:45pm to 2:45pm.
 * **Nov 17** &mdash; [Assignment 6](assign/assign06.html) is due Friday, Dec 6th.
-
 <!-- didn't do this for Fall 2019
 
 * **Oct 18** &mdash; Two practice problems for Exam 2 have been posted to [CloudCoder](https://cs.ycp.edu/cloudcoder). I will be posting additional practice problems as time allows.
 
 -->
-
 * **Oct 30** &mdash; [Assignment 5](assign/assign05.html) is due Tuesday, Nov 26th.
 * **Oct 30** &mdash; The date for **Exam 3** is **Wednesday, Nov 20th**.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 * **Oct 4**  &mdash; [Assignment 4-MS2](assign/assign04.html) is due Monday, Nov 4th.
